@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "NesiosSkinPack",
+        "uuid": "713b8dcc-1bd4-466c-896d-800192a7ebfa",
+        "version": [
+            1,
+            1,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "74cd986a-92a1-45af-9bda-95a489f39574",
+            "version": [
+                1,
+                1,
+                0
+            ]
+        }
+    ]
+}

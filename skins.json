@@ -1,0 +1,43 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+    {
+      "localization_name": "NESIOS_Halloween",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nesios_Halloween.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nesios_Summer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nesios_Summer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nesios_Holyday",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nesios_Christmas.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nesios_Medieval",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nesios_Medieval.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nesios _Adventure",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nesios_Adventure.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nesios_Classic",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nesios_Sweat.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "NesiosSkinPack",
+  "localization_name": "NesiosSkinPack"
+}
